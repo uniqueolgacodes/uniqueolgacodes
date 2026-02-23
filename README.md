@@ -68,7 +68,7 @@ I’m a **Full Stack Developer from Nigeria 🇳🇬**, passionate about buildin
 I explore technical concepts and break them down into simple, practical explanations.
 
 <!-- BLOG-POST-LIST:START -->
-- Coming soon...
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
